@@ -52,3 +52,18 @@ body{
   left: 25%;
   top: 860px;
 }
+
+/* section2 */
+
+.section_two{
+  margin-top: 205px;
+  background-color: white;
+}
+
+.card_item2 p{
+  font-size: 14px;
+}
+.card_item2 h1{
+  font-weight: bold;
+  font-size: 24px;
+}
